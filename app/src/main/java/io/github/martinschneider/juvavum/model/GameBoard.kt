@@ -174,7 +174,7 @@ class GameBoard {
         analysis.setBoard(simpleBoard)
         val children = analysis.addChildren(simpleBoard, HashSet())
         for (child in children) {
-            successors.add(toGameBoard(child.board, this, currentPlayer))
+            successors.add(toGameBoard(child, this, currentPlayer))
         }
         return successors
     }

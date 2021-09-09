@@ -1,0 +1,1 @@
+Domino Juvavum and Cram are combinatorial board games. A player takes turns against the computer. In each move a player puts as many dominoes on the board as they want as long as they are all in the same row or the same column. The player making the last move wins.

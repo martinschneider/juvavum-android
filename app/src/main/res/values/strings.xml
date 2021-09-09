@@ -16,23 +16,23 @@
         <p>A domino occupies two (horizontally or vertically) neighbouring fields. In each move, you can place as many dominoes on the board as you wish but <b>they all have to be either in the same row or in the same column</b>.</p>
         <p>To illustrate, the following images show three legal first moves in Domino Juvavum:</p>
 
-        <p><img src="legal1"/></p>
-        <p><img src="legal2"/></p>
-        <p><img src="legal3"/></p>
+        <p><img src=\"legal1\"/></p>
+        <p><img src=\"legal2\"/></p>
+        <p><img src=\"legal3\"/></p>
 
         <p>However, the following moves would <b>not</b> be allowed:</p>
 
-        <p><img src="illegal1"/></p>
-        <p><img src="illegal2"/></p>
-        <p><img src="illegal3"/></p>
+        <p><img src=\"illegal1\"/></p>
+        <p><img src=\"illegal2\"/></p>
+        <p><img src=\"illegal3\"/></p>
 
         <p>The first two don\'t use dominoes (a domino always covers two adjacent fields). The third violates the rule that all dominoes must be placed in the same row or column.</p>
 
         <h1>Rules of Cram</h1>
         <p>The rules of Cram are the same except that you are only allowed to place a single domino in each move.</p>
 
-        <h1>Variation: Misère form</h1>
-        <p>Both games can be played in their normal form or in what is called misère form. In the latter, the player making the last move loses.</p>
+        <h1>Variation: Mis&#232;re form</h1>
+        <p>Both games can be played in their normal form or in what is called mis&#232;re form. In the latter, the player making the last move loses.</p>
 ]]></string>
     <string name="title_activity_main">Juvavum</string>
     <string name="title_activity_game_controls">How to play?</string>
