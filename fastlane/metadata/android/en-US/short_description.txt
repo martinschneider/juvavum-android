@@ -1,1 +1,1 @@
-Domino Juvavum and Cram are combinatorial board games which can be played against a computer opponent.
+Domino Juvavum and Cram are board games which can be played against the computer
