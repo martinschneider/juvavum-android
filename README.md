@@ -1,7 +1,14 @@
-juvavum
+Juvavum
 =======
 
 Analyse and play the games Juvavum, Domino Juvavum and Cram.
+
+[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/packages/io.github.martinschneider.juvavum/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+      alt="Get it on Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=io.github.martinschneider.juvavum)
 
 # Introduction
 Juvavum, Domino Juvavum and Cram are impartial, [combinatorical games](https://en.wikipedia.org/wiki/Combinatorial_game_theory) played on an m x n board.
